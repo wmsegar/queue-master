@@ -16,3 +16,6 @@ credentials.yml
 
 *.classpath
 *.project
+
+### Intelij Files
+*.iml
